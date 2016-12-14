@@ -5,6 +5,7 @@ public class Shell {
 	public static void main(String[] args) {
 		Integer N = 100;
 		String[] a = new String[N];
+
 		
 		for (int i = 0; i < a.length; i++) {
 			a[i] = String.valueOf(a.length - i);
