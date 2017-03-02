@@ -13,7 +13,7 @@
  查看日志
  - commit id
  提交的id
-- git diff
+ - git diff
 查看区别
  - HEAD
  指向当前版本
