@@ -51,4 +51,4 @@ bin
 
 .idea
 .project
-.gitattributes
+target
